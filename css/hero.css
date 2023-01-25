@@ -8,6 +8,9 @@
     max-width: 904px;
     margin: 0 0 36px;
 }
+.hero__slider {
+    min-width: 372px;
+}
 @media (max-width: 768px) {
     .hero {
         padding: 40px 0;
